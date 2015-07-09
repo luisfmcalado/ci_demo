@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/24ahmt0w4wya5f50?svg=true)](https://ci.appveyor.com/project/luisfmcalado/ci-demo)
+[![Build status](https://ci.appveyor.com/api/projects/status/nwnr1yqn2t8au58h?svg=true)](https://ci.appveyor.com/project/luisfmcalado/ci-demo)
 [![Build Status](https://travis-ci.org/luisfmcalado/ci_demo.svg?branch=master)](https://travis-ci.org/luisfmcalado/ci_demo)
 
 # README #

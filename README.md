@@ -10,17 +10,17 @@ Testing CI Tools
 **Linux**  
 ```
 cmake -H. -Bbuild
+cmake --build build --config Debug
 ```  
 
 **Windows**
 ```
 cmake -H. -Bbuild -DBOOST_ROOT="C:\boost_1_58_0" -DBOOST_LIBRARYDIR="C:\boost_1_58_0\stage\lib" " -DBoost_USE_STATIC_LIBS="ON"
 ```  
+```
+```
 
 **Both**  
-```
-cmake --build build --config Debug
-```
 
 #Testing
 
